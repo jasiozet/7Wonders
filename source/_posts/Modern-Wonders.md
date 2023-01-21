@@ -23,13 +23,13 @@ tags: 7Wonders, ModernWonders, Expansion, Wonders
 
 # Kyiv
 
-![Kyiv (A) Side](images/wonders/kyiv_a.png)
+![Kyiv Day (A) Side](images/wonders/kyiv_a.png)
 
 1🏛️: 3VP Military victory token
 2🏛️: 5VP Military victory token
 3🏛️: 3🪙 per Military victory token
 
-![Kyiv (B) Side](images/wonders/kyiv_b.png)
+![Kyiv Night (B) Side](images/wonders/kyiv_b.png)
 
 1🏛️: Two loss tokens and two shields
 2🏛️: 4🪙 per loss token
@@ -38,14 +38,14 @@ At the and of the game get 1VP per victory token in your city
 
 # New York
 
-![New York (A) Side](images/wonders/newyork_a.png)
+![New York Day (A) Side](images/wonders/newyork_a.png)
 
 1🏛️: 3VP
 2🏛️: 5VP
 3🏛️: When built get 1🪙 for every blue card in your city
 At the and of the game get 1VP per blue card in your city
 
-![New York (B) Side](images/wonders/newyork_b.png)
+![New York Night (B) Side](images/wonders/newyork_b.png)
 
 1🏛️: You can duplicate one of your resources from brown or gray cards
 2🏛️: When built get 1🪙 for every blue card in yours and your neighbors cities
@@ -61,27 +61,27 @@ Examples:
 ```2 Astrolabe 2 Cog 2 Tablet - 3* 4 + 14 = 26 points```
 ```2 Astrolabe 2 Cog 1 Tablet 1 Compass - 2 * 4 + 2 * 1 + 14 = 24 points```
 
-![Oxford (A) Side](images/wonders/oxford_a.png)
+![Oxford Day (A) Side](images/wonders/oxford_a.png)
 
 1🏛️: 3VP
 2🏛️: 3🪙 & Astrolabe Science Symbol
 3🏛️: 7VP
 
-![Oxford (B) Side](images/wonders/oxford_b.png)
+![Oxford Night (B) Side](images/wonders/oxford_b.png)
 
 1🏛️: At the end of the game 6VP if you’ve built 1 wonder stage, 2VP if you’ve built 2 wonder stages
 2🏛️: 2 Astrolabe Science Symbols
 
 # Paris
 
-![Paris (A) Side](images/wonders/paris_a.png)
+![Paris Day (A) Side](images/wonders/paris_a.png)
 
 1🏛️: 3VP
 2🏛️: 5VP
 3🏛️: At the end of the game get 2VP for every pair of cards in your city in 2 different non-blue selected colors
 ```Example: 4 Browns 3 Red -> 6VP```
 
-![Paris (B) Side](images/wonders/paris_b.png)
+![Paris Night (B) Side](images/wonders/paris_b.png)
 
 1🏛️: 3VP
 2🏛️: When built choose get: 7🪙 OR Diplomacy Token
@@ -90,7 +90,7 @@ Examples:
 
 # Rio
 
-![Rio (A) Side](images/wonders/rio_a.png)
+![Rio Day (A) Side](images/wonders/rio_a.png)
 
 1🏛️: 3VP. When built your neighbors get 3🪙
 2🏛️: When built your neighbors give you 1 card from their city
@@ -105,7 +105,7 @@ Clarifications:
 ```New card is treated like it was built in your city this turn```
 ```If the order matters, 1st card built comes from the neighbor that you are passing cards to```
 
-![Rio (B) Side](images/wonders/rio_b.png)
+![Rio Night (B) Side](images/wonders/rio_b.png)
 
 1🏛️: When built get 7🪙 and your neighbors get 2🪙
 2🏛️: 6VP. When built your neighbors get 1 Debt token (-1VP)
@@ -113,13 +113,13 @@ Clarifications:
 
 # Timbuktu
 
-![Timbuktu (A) Side](images/wonders/timbuktu_a.jpg)
+![Timbuktu Day (A) Side](images/wonders/timbuktu_a.jpg)
 
 1🏛️: 3VP
 2🏛️: You can buy brown or gray resource from **any** player for 1🪙
 3🏛️: 7VP
 
-![Timbuktu (B) Side](images/wonders/timbuktu_b.jpg)
+![Timbuktu Night (B) Side](images/wonders/timbuktu_b.jpg)
 
 1🏛️: Your opponents **once per turn** can buy any brown or gray resource from you for 1🪙
 2🏛️: At the end of the game get 1VP for every different color of a card in your city
@@ -138,3 +138,17 @@ When you combine it with a discount effect like:
 * Clandestine Dock East/West (Cities) 
 * Smugglers' Cache (Cities 2nd edition/Cities Anniversary Pack) 
 they do stack and you can "buy" resources for 0🪙 in certain circumstances (when those cards provide the discount)
+
+# NOTE
+All the art is owned by the respective artist/companies. This project is totally non-profit. Free to modify it, but your modifications have to be open-sourced as well. It is strictly forbidden to sell any of this for any kind of profit.
+
+List of artists:
+Agra - Péter Kovács
+Moscow - Nina Valinger
+New York - Ray Weiler
+Paris - Marc Mons
+Oxford - Sofia da Silva
+Rio De Janeiro - wallpaperaccess.com/christ-the-redeemer
+Timbuktu - Francois Xavier MARIT/AFP
+
+All images are used for strictly non profit reasons.
