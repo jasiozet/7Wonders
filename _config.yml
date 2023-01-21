@@ -105,6 +105,4 @@ deploy:
   type: git
   repo: https://github.com/jasiozet/7Wonders
   branch: gh-pages
-  extend_dirs: []
   ignore_hidden: false # default is true
-  ignore_pattern:   # whatever file that matches the regexp will be ignored when deploying
